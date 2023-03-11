@@ -45,7 +45,8 @@
   "bugs": {
     "url": "https://github.com/acdc-digital/website/issues"
   },
-  "homepage": "https://github.com/acdc-digital/website#readme"
+  "homepage": "https://github.com/acdc-digital/website#readme",
+  "dependencies": {
+    "gatsby": "^5.7.0"
+  }
 }
-
-
