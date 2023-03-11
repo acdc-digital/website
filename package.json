@@ -1,0 +1,51 @@
+{
+  "name": "acdc.digital",
+  "version": "1.0.0",
+  "description": "A digital agency is a company that offers a range of services related to digital technologies, such as website design and development, search engine optimization (SEO), social media marketing, online advertising, content creation, and more. Digital agencies help businesses of all sizes and industries improve their online presence and leverage digital tools to reach their target audience and achieve their business goals. They combine creativity, technology, and data-driven strategies to deliver effective digital solutions that meet their clients' unique needs and objectives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "gatsby build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdc-digital/website.git"
+  },
+  "keywords": [
+    "digital",
+    "automation",
+    "marketing",
+    "consulting",
+    "website",
+    "design",
+    "website",
+    "development",
+    "social",
+    "media",
+    "strategy",
+    "SEO",
+    "search",
+    "engine",
+    "optimization",
+    "digital",
+    "advertising",
+    "content",
+    "marketing",
+    "email",
+    "marketing",
+    "web",
+    "analytics",
+    "market",
+    "research",
+    "marketing",
+    "automation"
+  ],
+  "author": "acdc.digital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdc-digital/website/issues"
+  },
+  "homepage": "https://github.com/acdc-digital/website#readme"
+}
+
+
